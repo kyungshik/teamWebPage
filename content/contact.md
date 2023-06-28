@@ -1,10 +1,8 @@
 +++
-title = "Contact"
+title = "고객센터"
 id = "contact"
 +++
 
-# We are here to help you
-
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
-
-Please feel free to contact us, our customer service center is working for you 24/7.
+# 투스비는 다양한 파트너와   
+# 새로운 프로젝트를 기대합니다.
+ 
